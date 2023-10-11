@@ -9,7 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "firebase": "^9.15.0",
+    "package-name": "^0.1.0",
+    "vue": "^3.2.13",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -32,12 +37,8 @@
     "parserOptions": {
       "parser": "@babel/eslint-parser"
     },
-    "rules": {}
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead",
-    "not ie 11"
-  ]
+    "rules": {
+      "vue/multi-word-component-names": "off"
+    }
+  }
 }
