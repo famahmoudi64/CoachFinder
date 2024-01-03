@@ -1,4 +1,4 @@
-# Coach Finder Application
+# CoachFinder Application
 
 Welcome to the Coach Finder Application! This web application is designed to help you find coaches for various subjects and skills. Whether you're looking for a coach in backend development or any other field, this app has got you covered.
 
@@ -29,8 +29,8 @@ Before you begin, ensure that you have Node.js installed on your machine. If not
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/famahmoudi64/coachFinder.git`
-2. Navigate to the project directory: `cd coachFinder`
+1. Clone the repository: `git clone https://github.com/famahmoudi64/CoachFinder.git`
+2. Navigate to the project directory: `cd CoachFinder`
 3. Install dependencies: `npm install`
 4. Install Vue CLI globally (if not installed): `npm install -g @vue/cli`
 5. Install Vuex: `npm install vuex`
