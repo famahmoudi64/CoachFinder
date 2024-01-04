@@ -33,7 +33,7 @@ To run this application locally, follow these steps:
 2. Navigate to the project directory: `cd CoachFinder`
 3. Install dependencies: `npm install`
 4. Install Vue CLI globally (if not installed): `npm install -g @vue/cli`
-5. Install Vuex: `npm install vuex`
+5. Install Vuex: `npm install --save vuex vue-router`
 6. Run the development server: `npm run serve`
 7. Open your browser and visit `http://localhost:8080`
 
